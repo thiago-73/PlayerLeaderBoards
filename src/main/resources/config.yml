@@ -1,9 +1,0 @@
-# Config de PlayerLeaderBoards
-
-# Cantidad de jugadores que se muestran en cada hologram y en /leaderboard
-top-count: 5
-
-# Cada cuantos minutos se refresca por completo cada hologram (ademas de la
-# actualizacion instantanea que ya ocurre cuando un jugador mina, mata, camina
-# o escribe en el chat). Sirve como red de seguridad y para el tiempo jugado.
-auto-refresh-minutes: 5
